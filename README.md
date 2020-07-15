@@ -7,6 +7,6 @@ A page with one input and one button.  When the button is clicked, program print
 A page with one input and one button.  When the button is pressed, calculates the tip (based on a 10% tip), and the total
 
 ## Password Protected
-A page with two inputs and one button.
+A page with two inputs and one button. <br>
 First input: "username" <br>
 Second input: "Pa$$w0rd"
